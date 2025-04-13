@@ -1,0 +1,17 @@
+E:\Kuliah\Tugas Semester 4\Kontruksi Perangkat Lunak (KPL)\tpmodul8_103022300018\bin\Debug\net8.0\tpmodul8_103022300018.exe
+E:\Kuliah\Tugas Semester 4\Kontruksi Perangkat Lunak (KPL)\tpmodul8_103022300018\bin\Debug\net8.0\tpmodul8_103022300018.deps.json
+E:\Kuliah\Tugas Semester 4\Kontruksi Perangkat Lunak (KPL)\tpmodul8_103022300018\bin\Debug\net8.0\tpmodul8_103022300018.runtimeconfig.json
+E:\Kuliah\Tugas Semester 4\Kontruksi Perangkat Lunak (KPL)\tpmodul8_103022300018\bin\Debug\net8.0\tpmodul8_103022300018.dll
+E:\Kuliah\Tugas Semester 4\Kontruksi Perangkat Lunak (KPL)\tpmodul8_103022300018\bin\Debug\net8.0\tpmodul8_103022300018.pdb
+E:\Kuliah\Tugas Semester 4\Kontruksi Perangkat Lunak (KPL)\tpmodul8_103022300018\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Kuliah\Tugas Semester 4\Kontruksi Perangkat Lunak (KPL)\tpmodul8_103022300018\obj\Debug\net8.0\tpmodul8_103022300018.csproj.AssemblyReference.cache
+E:\Kuliah\Tugas Semester 4\Kontruksi Perangkat Lunak (KPL)\tpmodul8_103022300018\obj\Debug\net8.0\tpmodul8_103022300018.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kuliah\Tugas Semester 4\Kontruksi Perangkat Lunak (KPL)\tpmodul8_103022300018\obj\Debug\net8.0\tpmodul8_103022300018.AssemblyInfoInputs.cache
+E:\Kuliah\Tugas Semester 4\Kontruksi Perangkat Lunak (KPL)\tpmodul8_103022300018\obj\Debug\net8.0\tpmodul8_103022300018.AssemblyInfo.cs
+E:\Kuliah\Tugas Semester 4\Kontruksi Perangkat Lunak (KPL)\tpmodul8_103022300018\obj\Debug\net8.0\tpmodul8_103022300018.csproj.CoreCompileInputs.cache
+E:\Kuliah\Tugas Semester 4\Kontruksi Perangkat Lunak (KPL)\tpmodul8_103022300018\obj\Debug\net8.0\tpmodul8.A6F9E352.Up2Date
+E:\Kuliah\Tugas Semester 4\Kontruksi Perangkat Lunak (KPL)\tpmodul8_103022300018\obj\Debug\net8.0\tpmodul8_103022300018.dll
+E:\Kuliah\Tugas Semester 4\Kontruksi Perangkat Lunak (KPL)\tpmodul8_103022300018\obj\Debug\net8.0\refint\tpmodul8_103022300018.dll
+E:\Kuliah\Tugas Semester 4\Kontruksi Perangkat Lunak (KPL)\tpmodul8_103022300018\obj\Debug\net8.0\tpmodul8_103022300018.pdb
+E:\Kuliah\Tugas Semester 4\Kontruksi Perangkat Lunak (KPL)\tpmodul8_103022300018\obj\Debug\net8.0\tpmodul8_103022300018.genruntimeconfig.cache
+E:\Kuliah\Tugas Semester 4\Kontruksi Perangkat Lunak (KPL)\tpmodul8_103022300018\obj\Debug\net8.0\ref\tpmodul8_103022300018.dll
